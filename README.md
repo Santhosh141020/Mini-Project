@@ -10,4 +10,4 @@ Model is trained using SVM classifier
 
 ### Dataset
 There are 40 images of each class
-(Click Here)[https://drive.google.com/drive/folders/1M8M5NCmAKXcuh7Rt0H0r89L2_IY17L7c?usp=sharing]
+[Click Here](https://drive.google.com/drive/folders/1M8M5NCmAKXcuh7Rt0H0r89L2_IY17L7c?usp=sharing)
