@@ -1,5 +1,5 @@
 # Minor-Project
-This project mainle deals with image classification of fruits
+This project mainly deals with image classification of fruits
 It Mainly has 4 classes
 1. Apple
 2. Blackberry
